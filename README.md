@@ -1,2 +1,2 @@
-# mcp-schema-viewer
-This is a schema viewer for the MCP specification.
+# capabilities-schema-viewer
+This is a JSON Schema explorer for the Capabilities schema.
